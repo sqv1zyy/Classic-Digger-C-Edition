@@ -1,4 +1,4 @@
-# ⛏️ Digger Reloaded
+# ⛏️ Classic-Digger-C#-Edition
 
 [![C#](https://img.shields.io/badge/C%23-12.0-239120?logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Avalonia](https://img.shields.io/badge/Avalonia-UI-8A2BE2?logo=avalonia)](https://avaloniaui.net/)
@@ -205,24 +205,11 @@ dotnet run
 - **Алгоритмы** — базовая логика преследования и поиска пути игрока.
 
 ---
+## 👨‍💻 Автор
 
-## 🤝 Вклад в проект
-
-Приветствуются любые пул-реквесты с новыми механиками, улучшениями оптимизации или исправлениями багов!
-
+* **Булатов Илья**
+* **GitHub:** [@sqv1zyy](https://github.com/sqv1zyy)
 ---
-
-## 📜 Лицензия
-
-Проект распространяется под лицензией [MIT License](LICENSE).
-
----
-
-## 🙏 Благодарности
-
-- Оригинальной игре **Digger** от *Windmill Software*.
-- Команде **Avalonia UI** за отличный кроссплатформенный фреймворк.
-- Всем, кто дочитал этот README до самого конца! 😊
 
 <p align="center">
   <i>Копайте глубже, собирайте золото и избегайте монстров!</i>
@@ -230,4 +217,3 @@ dotnet run
 
 ---
 
-> 📌 **Примечание:** Чтобы скриншот корректно отображался на GitHub, поместите файл скриншота в корень репозитория под именем `screenshot.png` или измените путь в начале файла на актуальный (например, `docs/screenshot.png`).
